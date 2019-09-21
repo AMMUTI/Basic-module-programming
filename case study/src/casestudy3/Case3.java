@@ -44,6 +44,7 @@ public class Case3 {
 	      System.out.println(" Update Email:");
      email=sc.nextLine();
      System.out.println("Email updated");
+	    }
      System.out.println("Your details are as follows");
      System.out.println("Name:"+name);
      System.out.println("Address:"+address);
@@ -52,7 +53,6 @@ public class Case3 {
      System.out.println("Proof type:"+proofType);
      System.out.println("Proof id:"+proofID);
      
-     System.exit(0);
+     System.exit(0);       	 
+ }
 }
-        	 
-}}
